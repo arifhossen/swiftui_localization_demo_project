@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  LocalizationExampleSwiftUI
+
+  Created by MAC on 12/5/20.
+  Copyright © 2020 MAC. All rights reserved.
+*/
+
+"content_example" = "デモコンテンツの例";
+"sentence_1" = "1.トムは町で一番年上の男です";
+"sentence_2" = "2.ポールは近所で一番背の高い少年です。";
+"sentence_3" = "3.その青の色合いが最も美しい色です。";
+"sentence_4" = "4.これは今まで聞いた中で最も長い曲です。";
+"sentence_5" = "5.メアリーはジェーンより短い。";
+
+

@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  LocalizationExampleSwiftUI
+
+  Created by MAC on 12/5/20.
+  Copyright © 2020 MAC. All rights reserved.
+*/
+
+"content_example" = "Demo Content Example";
+"sentence_1" = "1. Tom is the oldest man in town.";
+"sentence_2" = "2. Paul is the tallest boy in the neighborhood.";
+"sentence_3" = "3. That shade of blue is the most beautiful color.";
+"sentence_4" = "4. This is the longest song that I have ever heard.";
+"sentence_5" = "5. Mary is shorter than Jane.";
+
+
+
+

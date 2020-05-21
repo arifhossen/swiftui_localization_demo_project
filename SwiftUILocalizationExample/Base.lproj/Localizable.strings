@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizationExampleSwiftUI
+
+  Created by MAC on 12/5/20.
+  Copyright © 2020 MAC. All rights reserved.
+*/
+
+"Welcome" = "Welcome to SWIFTUI";
